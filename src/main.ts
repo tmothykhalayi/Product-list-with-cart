@@ -1,4 +1,3 @@
-
 import './style.css';
 import { CartDB } from './cartdb';
 import type { Dessert } from './cartdb';
@@ -106,4 +105,3 @@ async function init() {
 }
 
 init();
-

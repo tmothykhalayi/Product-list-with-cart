@@ -1,9 +1,13 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "name": "friday-assignment",
 =======
   "name": "product_list_cart",
 >>>>>>> 1e8fd4f (update)
+=======
+  "name": "product_list_cart",
+>>>>>>> master
   "private": true,
   "version": "0.0.0",
   "type": "module",
